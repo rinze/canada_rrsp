@@ -11,6 +11,6 @@ script. You'll get a plot with three panels that show:
 * `tax_savings`: how many dollars you're getting back if you contribute that 
   much.
 * `rrsp_efficiency`: how efficient your contributions are, in terms of how many 
-  dollars you're getting back vs. how much you're contributing.
+  dollars you're getting back vs. how much you're contributing, in percentage.
 
 
